@@ -1,16 +1,11 @@
 title: "Akshay Dudhe"
 description: "Java Backend Developer | Passionate about scalable and secure application development"
-baseurl: "" # Leave empty unless hosting in a subdirectory
+baseurl: "" # Leaveing it empty unless hosting in a subdirectory
 url: "https://github.com/akshaydudhe943" # Replace with your GitHub Pages URL
 
 # Appearance settings
 show_downloads: true
-
-# Contact information (Optional)
-email: akshaydudhe943@gmail.com
-address: Hinjewadi Phase 1, Pune, Maharashtra, India
-phone: +91 7666159449
-
+theme: jekyll-theme-minimal
 # Customization
 social_links:
   - name: GitHub
