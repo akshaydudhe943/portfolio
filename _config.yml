@@ -1,20 +1,6 @@
 title: "Akshay Dudhe"
 description: "Java Backend Developer | Passionate about scalable and secure application development"
 baseurl: "" # Leaveing it empty unless hosting in a subdirectory
-url: "https://github.com/akshaydudhe943" # Replace with your GitHub Pages URL
-
-# Appearance settings
+url: "https://github.com/akshaydudhe943"
 show_downloads: true
 theme: jekyll-theme-minimal
-# Customization
-social_links:
-  - name: GitHub
-    url: https://github.com/akshaydudhe943
-    icon: fab fa-github
-
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/akshay-dudhe-b51b691b5/
-    icon: fab fa-linkedin
-
-# Footer (Optional)
-footer_message: "Made with ❤️ by Akshay Dudhe😊"
