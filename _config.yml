@@ -1,4 +1,37 @@
-titla: Akshay Dudhe
-description: Java Developer at Web Minds IT Solution
-show_downloads: true
+title: "Akshay Dudhe"
+description: "Java Backend Developer | Passionate about scalable and secure application development"
+baseurl: "" # Leave empty unless hosting in a subdirectory
+url: "https://github.com/akshaydudhe943" # Replace with your GitHub Pages URL
 theme: jekyll-theme-minimal
+
+# Social Links (optional, add your profiles)
+twitter_username: your_twitter_handle # Replace or remove if not using
+github_username: akshaydudhe943 # Your GitHub handle
+linkedin_username: akshay-dudhe # Replace with your LinkedIn username
+
+# Appearance settings
+show_downloads: true
+paginate: 5
+highlighter: rouge
+
+# Navigation Links
+header_pages:
+  - README.md
+
+# Contact information (Optional)
+email: akshaydudhe943@gmail.com
+address: Hinjewadi Phase 1, Pune, Maharashtra, India
+phone: +91 7666159449
+
+# Customization
+social_links:
+  - name: GitHub
+    url: https://github.com/akshaydudhe943
+    icon: fab fa-github
+
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/akshay-dudhe-b51b691b5/
+    icon: fab fa-linkedin
+
+# Footer (Optional)
+footer_message: "Made with ❤️ by Akshay Dudhe😊"
